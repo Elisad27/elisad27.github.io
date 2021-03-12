@@ -1,0 +1,39 @@
+/* MAIN
+==================================================*/
+.top-bar h1{
+	color: #333333;
+}
+
+.top-bar p{
+	color: #555555;
+}
+
+.top-bar p a {
+	color: #555555;
+}
+
+.container-fluid{
+    background-color: black;
+}
+
+span.box-words-wrapper {
+    color: #ffffff;
+}
+
+.box-intro h5 {
+	font-size: 17px;
+}
+
+img.small-icon{
+	width: 50px;
+	height: 50px;
+	margin: 0 auto;
+}
+
+.service-box h5{
+	text-align: center;
+}
+
+.portfolio_filter{
+	margin-bottom: 0px;
+}
